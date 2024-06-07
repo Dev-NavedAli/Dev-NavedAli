@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @akashdeep023 (Akash Deep)
+# 👋 Hi, I’m @Dev-NavedAli (Naved Ali Khan)
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
