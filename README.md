@@ -14,13 +14,13 @@
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 ---
 ## Let's connect :speech_balloon:
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
-[<img src="https://img.shields.io/badge/-Akashdeep-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/akashdeep023/)
-[<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:contact.akashdeep023@gmail.com)
-[<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/akashdeep023_/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Dev-NavedAli)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
+<img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/badge/-@naved_khan2000__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Dev-NavedAli)
 </br></br>
-## 💻 Some stats 💻
+## 💻 Some stats 💻 <br>
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
 <a style="" href="https://github.com/Dev-NavedAli">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
@@ -29,7 +29,7 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Tools <br>
 <span>
   <a href="https://github.com/Dev-NavedAli">
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
