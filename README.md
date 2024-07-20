@@ -10,15 +10,15 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 ### 👀 I’m interested in coding.
-### 🌱 I’m currently learning Web development & Java language.
+### 🌱 I’m currently learning Web development.
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 ---
 ## Let's connect :speech_balloon:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
 <img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />
-<img src="https://img.shields.io/badge/-contact.akashdeep023@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/badge/nomanali50997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
 <img src="https://img.shields.io/badge/-@naved_khan2000__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
-<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Dev-NavedAli)
+<img src="https://img.shields.io/badge/https://github.com/Dev-NavedAli style=social" height="32" title="Follow me" />](https://github.com/Dev-NavedAli)
 </br></br>
 ## 💻 Some stats 💻 <br>
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
