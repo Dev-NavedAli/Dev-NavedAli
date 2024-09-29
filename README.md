@@ -26,7 +26,7 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 <a style="" href="https://github.com/Dev-NavedAli">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NavedAli&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
 ## 👨‍💻 Languages and Tools <br>
