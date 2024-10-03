@@ -18,12 +18,12 @@
 <img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />
 <img src="https://img.shields.io/badge/nomanali50997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
 <img src="https://img.shields.io/badge/-@naved_khan2000__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
-<img src="https://img.shields.io/badge/https://github.com/Dev-NavedAli style=social" height="32" title="Follow me" />](https://github.com/Dev-NavedAli)
+<img src="https://img.shields.io/badge/https://github.com/Dev-NavedAli style=social" height="32" title="Follow me" />
 </br></br>
 ## 💻 Some stats 💻 <br>
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
 <a style="" href="https://github.com/Dev-NavedAli">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=akashdeep023&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-NavedAli&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
 <a style="" href="https://github.com/Dev-NavedAli">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NavedAli&theme=tokyonight&layout=donut-vertical"/>
