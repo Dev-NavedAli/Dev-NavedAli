@@ -9,9 +9,9 @@
 <a style="" href="https://github.com/Dev-NavedAli">
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
-### 👀 I’m interested in coding.
-### 🌱 I’m currently learning Web development.
-### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+👀 I’m interested in coding.<br/>
+🌱 I’m currently learning Web development.<br/>
+💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.<rbr/>
 ---
  :speech_balloon:
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
@@ -52,6 +52,59 @@
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<h1>AlL Projects</h1>
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Major Project</th>
+    <th>Live Link</th>
+    <th>GitHub Link</th>
+    <th>Linked Post</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>ECOMMERCE WEB APPLICATION</td>
+    <td><a href="ecommerce-frontend-eight-xi.vercel.app/">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/ECOMMERCE">Repository</a></td>
+    <td><a href="https://www.linkedin.com/posts/devnaved_fullstackdevelopment-reactjs-nodejs-activity-7247148360757829632-SHd8?utm_source=share&utm_medium=member_desktop">Post</a></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>WANDERLUST</td>
+    <td><a href="major-project-45rq.onrender.com/listings">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/Wanderlust">Repository</a></td>
+    <td><a href="https://www.linkedin.com/posts/devnaved_wanderlust-airbnb-explore-activity-7229813712654639104-3L_T?utm_source=share&utm_medium=member_desktop">Post</a></td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>PORTFOLIO</td>
+    <td><a href="portfolio-two-amber-23.vercel.app/">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/PORTFOLIO">Repository</a></td>
+    <td><a href="#">Post</a></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>PASSWORD MANAGER</td>
+    <td><a href="#">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/Password-Management-Website">Repository</a></td>
+    <td><a href="#">Post</a></td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>TODO APP REACT</td>
+    <td><a href="https://todo-app-react-six-beta.vercel.app/">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/Todo-app-react">Repository</a></td>
+    <td><a href="#">Post</a></td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>TODO APP REDUX</td>
+    <td><a href="https://todo-app-react-six-beta.vercel.app">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/ToDo-App-redux">Repository</a></td>
+    <td>No Post</td>
+  </tr>
+</table>
+
 
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    -->
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   -->
