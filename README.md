@@ -80,7 +80,7 @@
     <td>Full Stack Spotify Clone</td>
     <td><a href="https://ecommerce-frontend-eight-xi.vercel.app/">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/Full-Stack-Spotify-Clone">Repository</a></td>
-    <td>NO Post</td>
+    <td>No Post</td>
   </tr>
   <tr>
     <td>03</td>
