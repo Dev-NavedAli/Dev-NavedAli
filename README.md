@@ -75,6 +75,13 @@
     <td><a href="https://github.com/Dev-NavedAli/Wanderlust">Repository</a></td>
     <td><a href="https://www.linkedin.com/posts/devnaved_wanderlust-airbnb-explore-activity-7229813712654639104-3L_T?utm_source=share&utm_medium=member_desktop">Post</a></td>
   </tr>
+   <tr>
+    <td>02</td>
+    <td>Full Stack Spotify Clone</td>
+    <td><a href="https://ecommerce-frontend-eight-xi.vercel.app/">Link</a></td>
+    <td><a href="https://github.com/Dev-NavedAli/Full-Stack-Spotify-Clone">Repository</a></td>
+    <td>NO Post</td>
+  </tr>
   <tr>
     <td>03</td>
     <td>PORTFOLIO</td>
