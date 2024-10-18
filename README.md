@@ -84,35 +84,35 @@
     <td><a href="https://www.linkedin.com/posts/devnaved_wanderlust-airbnb-explore-activity-7229813712654639104-3L_T?utm_source=share&utm_medium=member_desktop">Post</a></td>
   </tr>
    <tr>
-    <td>02</td>
+    <td>03</td>
     <td>Full Stack Spotify Clone</td>
-    <td><a href="https://ecommerce-frontend-eight-xi.vercel.app/">Link</a></td>
+    <td><a href="https://spotify-frontend-pi.vercel.app/">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/Full-Stack-Spotify-Clone">Repository</a></td>
-    <td>No Post</td>
+    <td><a  href="https://www.linkedin.com/feed/update/urn:li:activity:7252943138439249920/">Post</a></td>
   </tr>
   <tr>
-    <td>03</td>
+    <td>04</td>
     <td>PORTFOLIO</td>
     <td><a href="portfolio-two-amber-23.vercel.app/">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/PORTFOLIO">Repository</a></td>
     <td><a href="#">Post</a></td>
   </tr>
   <tr>
-    <td>04</td>
+    <td>05</td>
     <td>PASSWORD MANAGER</td>
     <td><a href="#">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/Password-Management-Website">Repository</a></td>
     <td><a href="#">Post</a></td>
   </tr>
   <tr>
-    <td>05</td>
+    <td>06</td>
     <td>TODO APP REACT</td>
     <td><a href="https://todo-app-react-six-beta.vercel.app/">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/Todo-app-react">Repository</a></td>
     <td><a href="#">Post</a></td>
   </tr>
   <tr>
-    <td>06</td>
+    <td>07</td>
     <td>TODO APP REDUX</td>
     <td><a href="https://todo-app-react-six-beta.vercel.app">Link</a></td>
     <td><a href="https://github.com/Dev-NavedAli/ToDo-App-redux">Repository</a></td>
