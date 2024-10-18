@@ -14,8 +14,11 @@
 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.<rbr/>
 ---
  :speech_balloon:
+  <br/><br/>
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
-<img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" href="https://www.linkedin.com/in/devnaved" />
+  <a href="https://www.linkedin.com/in/devnaved">
+    <img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me"/>
+  </a>
 <img src="https://img.shields.io/badge/nomanali50997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
 <img src="https://img.shields.io/badge/-@naved_khan2000__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
 <img src="https://img.shields.io/badge/https://github.com/Dev-NavedAli style=social" height="32" title="Follow me" />
