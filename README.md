@@ -25,8 +25,6 @@
 <a href="https://www.instagram.com/naved_khan2000">
     <img src="https://img.shields.io/badge/-@naved_khan2000__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
 </a>
-
-<img src="https://img.shields.io/badge/https://github.com/Dev-NavedAli style=social" height="32" title="Follow me" />
 </br></br>
 ## 💻 Some stats 💻 <br>
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
