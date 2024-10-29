@@ -15,7 +15,7 @@
 ---
  :speech_balloon:
   <br/><br/>
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)©]-->
   <a href="https://www.linkedin.com/in/devnaved">
     <img src="https://img.shields.io/badge/-Naved-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me"/>
   </a> <br/>
