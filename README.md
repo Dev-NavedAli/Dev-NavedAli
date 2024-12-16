@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Dev-NavedAli (Naved Ali Khan)
 <p align="center">
-  <b style="color: blue;  ">Visitor count.</b>
+  <b style="color: blue;  ">Visitor count..</b>
   <br>
   <a style="" href="https://github.com/Dev-NavedAli">
   <img src="https://profile-counter.glitch.me/Dev-NavedAli/count.svg" />
